@@ -3,4 +3,4 @@
 <h3>Script bash qr generator free</h3>
 
 ## Preview
-<img src="ss.jpg">ss.jpg</img>
+<img src="ss.jpg"></img>
